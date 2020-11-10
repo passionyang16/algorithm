@@ -2,3 +2,5 @@
 **/.ipynb_checkpoints
 lecture
 **/lecture
+.vscode
+**/.vscode
